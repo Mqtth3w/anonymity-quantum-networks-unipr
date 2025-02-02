@@ -1,4 +1,4 @@
-# Anonymous communication of quantum messages
+# Anonymous communication of quantum messages [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 Project for Quantum Computing: Quantum Network Explorer (QNE) to Simulate Advanced Quantum Security Protocols. In particular, implement the paper ["Anonimity for practical quantum networks"](./Anonymity_for_practical_quantum_networks(paper).pdf).
 This application consists of the establishment of anonymous entanglement between a sender and a receiver in a quantum network with multiple agents. This entanglement can subsequently be used to share any arbitrary quantum state through quantum teleportation.
